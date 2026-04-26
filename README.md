@@ -43,6 +43,7 @@ BroadcastReceiver (Deep OBD data)<br>
 Designed for Android head units / in-car displays<br>
 Requires Deep OBD!<br>
 Performance depends on device hardware<br>
+Tested only on Xtrons Andorid Units for E90, E60, E70, E71 all with Snapdragon CPUs and 10.25inch screen on 720p with 320dpi! 
 
 📜 License<br>
 
