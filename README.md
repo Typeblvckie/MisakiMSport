@@ -3,7 +3,7 @@
 A custom Android car dashboard designed for BMW-style driving experience with real-time vehicle telemetry, clean UI, and OTA updates.
 
 ✨ Features<br>
-📊 Real-time vehicle data (RPM, Torque, Temps, etc.)<br>
+📊 Real-time vehicle data (HP, RPM, Torque, Temps, etc.)<br>
 🧠 Deep OBD integration<br>
 🎨 BMW-style UI (Sport / Sport+ / Monitor modes)<br>
 ⚡ Smooth animated gauges<br>
