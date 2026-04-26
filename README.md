@@ -1,6 +1,6 @@
 🚗 Misaki M Sport Dashboard
 
-A custom Android car dashboard designed for BMW-style driving experience with real-time vehicle telemetry, clean UI, and OTA updates.
+A custom Android car dashboard designed for BMW-style driving experience with real-time vehicle telemetry, clean UI, and OTA updates. Only in German language right now.
 
 ✨ Features<br>
 📊 Real-time vehicle data (HP, RPM, Torque, Temps, etc.)<br>
